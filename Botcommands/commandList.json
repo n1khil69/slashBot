@@ -1,0 +1,23 @@
+{
+    "default":[
+        "ping",
+        "shutdown",
+        "help",
+        "sysrun"
+    ],
+    "music":[
+        "join",
+        "leave",
+        "play",
+        "pause",
+        "resume",
+        "stop",
+        "skip",
+        "queue",
+        "musicsysrun",
+        "repeat",
+        "search",
+        "shuffle",
+        "addplaylist"
+    ]
+}
